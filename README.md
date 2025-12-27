@@ -1,45 +1,74 @@
-# VinMin · TLTE C.I.C.
+# TLTE / VinMin
 
-VinMin is part of the TLTE C.I.C. ecosystem — building modern digital tools,
-identity frameworks, and community-focused infrastructure for the global
-Tamil community.
+TLTE (Transformative League for Tamil Eelam) is a long-term, community-first
+framework focused on **identity, opportunity, cultural continuity, and
+transparent collaboration** across a globally distributed community.
 
-This repository serves as an open, public-safe space for:
-- foundational utilities  
-- shared modules  
-- documentation  
-- community-driven improvements  
+VinMin is the commercial and operational layer that supports the development,
+maintenance, and scaling of tools and services aligned with TLTE’s mission.
 
-Internal systems and secure components of TLTE C.I.C. and TLTE Cloud are
-maintained privately in separate environments.
+This repository documents **public-facing structure and principles only**.
+Private systems, internal operations, and security-sensitive components are
+intentionally excluded.
 
 ---
 
-## 🚀 TLTE C.I.C. Vision (Public Overview)
+## Documentation
 
-TLTE C.I.C. focuses on:
-- digital identity frameworks  
-- community empowerment tools  
-- Tamil global connectivity platforms  
-- hybrid-language UI/UX development  
-- safe, transparent, scalable infrastructure  
+- **Overview**  
+  `docs/OVERVIEW.md` — What TLTE / VinMin is and what it aims to achieve
 
-VinMin functions as the technical and research layer supporting these goals.
+- **Principles**  
+  `docs/PRINCIPLES.md` — Guiding values and design philosophy (public-safe)
 
----
+- **Governance**  
+  `docs/GOVERNANCE.md` — Governance principles and accountability approach
 
-## 📁 Repository Structure (Planned)
-
-Private and security-sensitive systems will **not** appear in this repository.
+- **Roadmap**  
+  `docs/ROADMAP.md` — High-level directional phases (non-time-bound)
 
 ---
 
-## 📜 License
+## Architecture (Conceptual)
 
-This project is open-sourced under the **MIT License**.  
-See the [`LICENSE`](LICENSE) file for details.  
-Public modules may be visible here; all internal infrastructure remains
-private as per TLTE C.I.C. security policy.
+- `architecture/SYSTEM_OVERVIEW.md`
+- `architecture/SECURITY_LAYERS.md`
+- `architecture/DATA_FLOW.md`
+
+These documents describe **structure and intent**, not implementation details.
+
+---
+
+## Community
+
+- `community/CODE_OF_CONDUCT.md`
+- `community/CONTRIBUTING.md`
+
+Participation is expected to align with the project’s standards of respect,
+responsibility, and constructive collaboration.
+
+---
+
+## Scope Notice
+
+TLTE / VinMin is **not a political organisation** and does not operate as a
+sovereign authority. It functions as a **membership-driven, community-oriented
+framework** that operates within applicable laws and regulations in each
+jurisdiction.
+
+---
+
+## License
+
+This project is open-sourced under the **MIT License**.
+See the `LICENSE` file for details.
+
+---
+
+## Guiding Quote
+
+> **“There’s no edge to what I can do. The boundary doesn’t exist.”**
+
 
 ---
 
